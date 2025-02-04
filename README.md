@@ -1,3 +1,7 @@
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 # 💫 About Me:
 Aspiring MERN Stack Developer with a strong foundation in coding languages such as Java, Python, C, and C++. Proficient in web development technologies including HTML, CSS, JavaScript, and React.js, with hands-on experience in using Beautiful Soup for web scraping. Passionate about building dynamic and user-friendly web applications, continuously honing skills to excel in full-stack development.
 
