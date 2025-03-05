@@ -26,6 +26,27 @@ Aspiring MERN Stack Developer with a strong foundation in coding languages such 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Techlead-ANKAN&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Techlead-ANKAN&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<hr>
+
+<h2 align="center" style="color: #40C9FF">🔥 Contribution Graph</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Techlead-ANKAN&theme=react-dark&bg_color=00000000&color=40C9FF&line=40C9FF&point=FFFFFF&hide_border=true&area=true&area_color=40C9FF&radius=15" alt="Activity Graph" width="90%"/>
+</div>
+
+<hr>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+</div>
+
+<div align="center" style="margin-top: 30px">
+  <img src="https://i.imghippo.com/files/0kR1H1716675007.gif" width="150px" alt="Coding GIF"/>
+</div>
+
+
+<hr>
+
+
 # 📊 LeetCode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mr_ankan2003?theme=dark&font=Orbitron&ext=heatmap)
 
