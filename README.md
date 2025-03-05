@@ -30,6 +30,9 @@ Aspiring MERN Stack Developer with a strong foundation in coding languages such 
 # 📊 LeetCode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mr_ankan2003?theme=dark&font=Orbitron&ext=heatmap)
 
+# 📊 GFG Stats:
+[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/mrankanmaity)](https://www.geeksforgeeks.org/user/mrankanmaity/)
+
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
