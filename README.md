@@ -1,4 +1,9 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ankan Maity </h1>
+<h1 align="center"> 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=40C9FF&center=true&vCenter=true&width=600&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Ankan+Maity;%F0%9F%9A%80+MERN+Stack+Developer;%F0%9F%92%AC+Open-Source+Contributor;%E2%9C%A8+Problem+Solver">
+  </a>
+</h1>
+
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 50px;">
   <img src="https://i.imghippo.com/files/lia2361onE.png" alt="" border="0">
 </div>
