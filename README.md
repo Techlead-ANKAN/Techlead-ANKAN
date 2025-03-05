@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ankan Maity </h1>
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 50px;">
-  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200px" height="200px" alt="side_sticker"/>
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400px" height="300px" alt="GIF"/>
+  <img src="https://i.imghippo.com/files/lia2361onE.png" alt="" border="0">
 </div>
 
 <br>
