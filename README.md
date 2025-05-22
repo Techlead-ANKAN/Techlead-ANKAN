@@ -54,31 +54,17 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">Project 1: E-Commerce Platform</h3>
+    <td width="100%">
+      <h3 align="center">Project 1: StatVerse</h3>
       <div align="center">
         <a href="https://github.com/yourusername/project1" target="_blank">
           <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/project.gif" width="250" alt="E-Commerce Platform">
         </a>
         <p align="center">
-          A full-stack e-commerce solution built with the MERN stack featuring user authentication, product management, and payment processing.
+          Collecting workspace informationStatVerse is a unified dashboard web app that lets users connect their coding platform profiles (LeetCode, GeeksforGeeks, CodeChef) and view their analytics in one place. It features authentication, profile integration, and real-time stats visualization.
         </p>
         <p align="center">
-          <strong>Tech Stack:</strong> React, Node.js, Express, MongoDB, Redux, Stripe
-        </p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Project 2: Real-time Chat Application</h3>
-      <div align="center">
-        <a href="https://github.com/yourusername/project2" target="_blank">
-          <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/project.gif" width="250" alt="Chat Application">
-        </a>
-        <p align="center">
-          A real-time messaging platform with features like group chats, file sharing, and end-to-end encryption.
-        </p>
-        <p align="center">
-          <strong>Tech Stack:</strong> React, Socket.io, Express, MongoDB, WebRTC
+          <strong>Tech Stack:</strong> React, Node.js, Clerk, Supabase, Redux 
         </p>
       </div>
     </td>
@@ -192,8 +178,8 @@
         <br>MySQL
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-        <br>TypeScript
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase" width="65" height="65" />
+        <br>Supabase
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
@@ -212,8 +198,8 @@
         <br>TailwindCSS
       </td>
       <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" width="65" height="65" />
-        <br>Firebase
+        <img src="https://cdn.simpleicons.org/framer/0055FF" alt="Framer" width="65" height="65" />
+        <br>Framer
       </td>
     </tr>
   </table>
