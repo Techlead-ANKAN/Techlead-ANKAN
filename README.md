@@ -55,21 +55,20 @@
 <table>
   <tr>
     <td width="100%">
-      <h3 align="center">Project 1: StatVerse</h3>
+      <h3 align="center">Project : NexChat</h3>
       <div align="center">
-        <a href="https://github.com/yourusername/project1" target="_blank">
-          <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/project.gif" width="250" alt="E-Commerce Platform">
+        <a href="https://github.com/yourusername/NexChat" target="_blank">
+          <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/project.gif" width="250" alt="NexChat">
         </a>
         <p align="center">
-          Collecting workspace informationStatVerse is a unified dashboard web app that lets users connect their coding platform profiles (LeetCode, GeeksforGeeks, CodeChef) and view their analytics in one place. It features authentication, profile integration, and real-time stats visualization.
+          <strong>NexChat</strong> is a full-fledged real-time chatting application designed for seamless and secure communication. Users can register, log in, and exchange messages instantly with others. The app features real-time messaging powered by Socket.io, robust authentication, user profile management, and a modern, responsive interface for an enhanced chat experience.
         </p>
         <p align="center">
-          <strong>Tech Stack:</strong> React, Node.js, Clerk, Supabase, Redux 
+          <strong>Tech Stack:</strong> React, Node.js, Express, MongoDB, Socket.io, JWT, bcrypt
         </p>
       </div>
     </td>
   </tr>
-</table>
 
 <!-- Open Source Contributions -->
 <div align="center">
