@@ -57,7 +57,7 @@
     <td width="100%">
       <h3 align="center">Project : NexChat</h3>
       <div align="center">
-        <a href="https://github.com/yourusername/NexChat" target="_blank">
+        <a href="https://github.com/Techlead-ANKAN/NexChat" target="_blank">
           <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/project.gif" width="250" alt="NexChat">
         </a>
         <p align="center">
