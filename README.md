@@ -26,7 +26,7 @@
         Currently working on innovative projects that solve real-world problems while contributing to open-source initiatives that align with my values.
       </p>
       <div align="left">
-        <a href="https://www.linkedin.com/in/ankan-maity-05926a228" target="_blank">
+        <a href="https://www.linkedin.com/in/ankan-maity" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
         <a href="https://facebook.com/share/15TB2BNp9a/" target="_blank">
