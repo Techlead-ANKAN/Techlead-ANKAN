@@ -35,7 +35,7 @@
         <a href="https://stackoverflow.com/users/21940590/ankan-maity" target="_blank">
           <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
         </a>
-        <a href="https://portfolio-ankan.vercel.app/" target="_blank">
+        <a href="https://techlead-ankan.com/" target="_blank">
           <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
         </a>
       </div>
